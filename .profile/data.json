@@ -1,13 +1,13 @@
 {
- "key": "ab35d4f9",
- "stars": 16,
- "contributions": 92,
+ "key": "e172d644",
+ "stars": 17,
+ "contributions": 93,
  "repos": 5,
  "followers": 3,
  "languages": [
   [
    "JavaScript",
-   3723672
+   3732162
   ],
   [
    "CSS",
@@ -105,7 +105,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 3,
     "today": true
    },
@@ -116,7 +116,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [],
@@ -136,20 +136,11 @@
    ]
   },
   {
-   "name": "FunPay-Desktop-Linux",
-   "url": "https://github.com/SanoSenpay/FunPay-Desktop-Linux",
-   "text": "FunPay - Linux приложение",
-   "fork": true,
-   "stars": 0,
-   "language": "Rust",
-   "topics": []
-  },
-  {
    "name": "FPT-Enhanced",
    "url": "https://github.com/SanoSenpay/FPT-Enhanced",
    "text": "Возможные улучшения в расширении и pull request'ы для оригинального Funpay Tools",
    "fork": true,
-   "stars": 0,
+   "stars": 1,
    "language": "JavaScript",
    "topics": []
   },
@@ -158,8 +149,17 @@
    "url": "https://github.com/SanoSenpay/FoxenDesktop",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "FunPay-Desktop-Linux",
+   "url": "https://github.com/SanoSenpay/FunPay-Desktop-Linux",
+   "text": "FunPay - Linux приложение",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
    "topics": []
   },
   {
