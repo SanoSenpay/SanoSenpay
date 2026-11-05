@@ -1,6 +1,6 @@
 {
- "key": "2199c781",
- "stars": 17,
+ "key": "5aa6d9e1",
+ "stars": 16,
  "contributions": 93,
  "repos": 5,
  "followers": 3,
@@ -134,7 +134,7 @@
    "url": "https://github.com/SanoSenpay/Foxen",
    "text": "Foxen - Расширение для браузеров на основе FireFox. Удобные инструменты для Funpay.",
    "fork": false,
-   "stars": 16,
+   "stars": 15,
    "language": "JavaScript",
    "topics": [
     "fanpey",
