@@ -1,17 +1,17 @@
 {
- "key": "82285200",
+ "key": "e68c1c4a",
  "stars": 16,
- "contributions": 93,
+ "contributions": 95,
  "repos": 5,
  "followers": 3,
  "languages": [
   [
    "JavaScript",
-   3732162
+   4038782
   ],
   [
    "CSS",
-   847848
+   918281
   ],
   [
    "HTML",
@@ -120,7 +120,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 6,
     "today": true
    },
@@ -128,10 +128,34 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
- "pins": [],
+ "pins": [
+  {
+   "name": "Foxen",
+   "url": "https://github.com/SanoSenpay/Foxen",
+   "text": "Foxen - Расширение для браузеров на основе FireFox. Удобные инструменты для Funpay.",
+   "fork": false,
+   "stars": 15,
+   "language": "JavaScript",
+   "topics": [
+    "fanpey",
+    "fp",
+    "funpay",
+    "funpaybot"
+   ]
+  },
+  {
+   "name": "FoxenDesktop",
+   "url": "https://github.com/SanoSenpay/FoxenDesktop",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  }
+ ],
  "all": [
   {
    "name": "Foxen",
