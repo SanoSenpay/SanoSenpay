@@ -1,5 +1,5 @@
 {
- "key": "ede7630d",
+ "key": "1568db2c",
  "stars": 16,
  "contributions": 95,
  "repos": 5,
@@ -97,9 +97,13 @@
    {
     "c": 0,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
