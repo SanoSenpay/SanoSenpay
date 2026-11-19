@@ -1,5 +1,5 @@
 {
- "key": "8bed4389",
+ "key": "370fe8a2",
  "stars": 16,
  "contributions": 95,
  "repos": 5,
@@ -141,15 +141,6 @@
     "funpay",
     "funpaybot"
    ]
-  },
-  {
-   "name": "FoxenDesktop",
-   "url": "https://github.com/SanoSenpay/FoxenDesktop",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
   }
  ],
  "all": [
