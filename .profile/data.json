@@ -1,6 +1,6 @@
 {
- "key": "b0ba8425",
- "stars": 16,
+ "key": "d071783d",
+ "stars": 14,
  "contributions": 95,
  "repos": 5,
  "followers": 3,
@@ -137,7 +137,7 @@
    "url": "https://github.com/SanoSenpay/Foxen",
    "text": "Foxen - Расширение для браузеров на основе FireFox. Удобные инструменты для Funpay.",
    "fork": false,
-   "stars": 15,
+   "stars": 14,
    "language": "JavaScript",
    "topics": [
     "fanpey",
@@ -153,7 +153,7 @@
    "url": "https://github.com/SanoSenpay/Foxen",
    "text": "Foxen - Расширение для браузеров на основе FireFox. Удобные инструменты для Funpay.",
    "fork": false,
-   "stars": 15,
+   "stars": 14,
    "language": "JavaScript",
    "topics": [
     "fanpey",
@@ -163,11 +163,20 @@
    ]
   },
   {
+   "name": "FunPay-Desktop-Linux",
+   "url": "https://github.com/SanoSenpay/FunPay-Desktop-Linux",
+   "text": "FunPay - Linux приложение",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
    "name": "FPT-Enhanced",
    "url": "https://github.com/SanoSenpay/FPT-Enhanced",
    "text": "Возможные улучшения в расширении и pull request'ы для оригинального Funpay Tools",
    "fork": true,
-   "stars": 1,
+   "stars": 0,
    "language": "JavaScript",
    "topics": []
   },
@@ -176,17 +185,8 @@
    "url": "https://github.com/SanoSenpay/FoxenDesktop",
    "text": "",
    "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "FunPay-Desktop-Linux",
-   "url": "https://github.com/SanoSenpay/FunPay-Desktop-Linux",
-   "text": "FunPay - Linux приложение",
-   "fork": true,
    "stars": 0,
-   "language": "Rust",
+   "language": null,
    "topics": []
   },
   {
